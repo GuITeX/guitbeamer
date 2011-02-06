@@ -1,0 +1,38 @@
+  guitbeamer.cls
+  ========
+
+  The GuITbeamer class provides some commands written purposely in
+  order to make the production of lessons of LaTeX easier. The class
+  is based on the well known class beamer. 
+  
+  Documentation available in Italian only.
+
+----------------------------------------------------------------------
+  
+  Copyright 2006 GuIT - Gruppo Utilizzatori Italiani di TeX
+			guit(at)sssup.it
+
+  This work is distributed under the conditions of the Creative
+  Commons Public License v2.5, with these License Elements:
+    * Attribution
+    * Non Commercial
+    * Share Alike
+ 
+  The complete text of the license is available at:
+ 
+    http://creativecommons.org/licenses/by-nc-sa/2.5/legalcode
+ 
+  The Licenser is GuIT, Gruppo Utilizzatori Italiani di TeX, the
+  author is Emiliano Vavassori [testina(at)sssup.it], which also
+  mantains this Work.
+
+  The Work consists of subsequent files:
+
+    guitbeamer.cls	Class file for GuITbeamer
+    guitbeamer.pdf	Documentation for GuITbeamer class
+    guitbeamer.tex	Sources of documentation
+    img/		Graphic files directory
+    README		(this file)
+    README.it		Italian translated version of this file
+
+----------------------------------------------------------------------
